@@ -504,11 +504,3 @@ spring:
 ```
 
 **Ескерту**: Production ортасында `validate` режимін қолдану ұсынылады.
-
-## Лицензия
-
-Бұл жоба оқу мақсатында құрылған.
-
-## Автор
-
-Satbayev University - MarketPlace Project
